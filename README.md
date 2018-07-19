@@ -1,1 +1,3 @@
 # Flashcards-ForTheTerminal
+Now you can study Russian whereever you go! Companion to the JS flashcards version for the Russian club website...
+You'll be prompted for a file name. Each file has a companion key with the same file name with a 'k' tacked on the end. Each card separated by '\n'. Happy studying :)
